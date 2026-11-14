@@ -19,8 +19,8 @@ W - forwards
 S - backwards
 A - strafe left
 D - strafe right
-Q - rise
-E - descend
+Q - descend
+E - rise
 Arrow keys to look around.
 ```
 
